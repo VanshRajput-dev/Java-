@@ -126,6 +126,6 @@ public class Function {
         System.out.println("Positive count: " + positive);
         System.out.println("Negative count: " + negative);
         System.out.println("Zero count: " + zero);
-
+sc.close();
     }
 }
