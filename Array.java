@@ -105,7 +105,7 @@ while (rowStart <= rowEnd && colStart <= colEnd) {
  colStart++;
 }
 
-
+sc.close();
     }
 
 }
