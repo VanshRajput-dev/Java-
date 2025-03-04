@@ -65,6 +65,8 @@ public class string {
         }
         System.out.println(str);
         sc.close();
+
+        // operators 
     }
 
 }
