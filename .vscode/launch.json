@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "java 2_82fb15fe"
+        },
+        {
+            "type": "java",
+            "name": "count",
+            "request": "launch",
+            "mainClass": "count",
+            "projectName": "java 2_82fb15fe"
+        },
+        {
+            "type": "java",
+            "name": "countn",
+            "request": "launch",
+            "mainClass": "countn",
+            "projectName": "java 2_82fb15fe"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
