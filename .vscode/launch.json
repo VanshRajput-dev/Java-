@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "union",
+            "request": "launch",
+            "mainClass": "union",
+            "projectName": "Java-_78868189"
+        },
+        {
+            "type": "java",
             "name": "recursion",
             "request": "launch",
             "mainClass": "recursion",
