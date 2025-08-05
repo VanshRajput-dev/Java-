@@ -32,7 +32,7 @@ return union;
 
         int [] nums1 = {1,1,3,4,5,5,6};
         int [] nums2 = {7,7,8,9,10,10};
-        int n = nums1.length;
+        
 
 
 int[] result = arrayUnion(nums1, nums2);

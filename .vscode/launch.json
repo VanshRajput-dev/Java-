@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "missing",
+            "request": "launch",
+            "mainClass": "missing",
+            "projectName": "Java-_78868189"
+        },
+        {
+            "type": "java",
             "name": "union",
             "request": "launch",
             "mainClass": "union",
